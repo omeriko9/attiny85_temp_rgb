@@ -21,6 +21,7 @@ Required hardware:
 
 Layout of the wiring:
 
-![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/e7ff6833-7c9f-4351-ba65-717b8cea91b3)
+![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/d878c242-1caa-4bff-b612-7e1b3fcd3553)
+
 
 

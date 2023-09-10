@@ -6,6 +6,15 @@ Illustration:
 
 ![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/182cc313-af74-4705-86bd-bfab3d0ed3df)
 
+A very bad prototype:
+
+![IMG_7588](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/0baba867-896b-4b56-8bca-c7f0f44a1cbc)
+
+![IMG_7591](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/b708f1e0-60a1-461c-bf74-1f89598e79fa)
+
+![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/a0d8fbde-d156-431b-abeb-bb5dbc445f2b)
+
+
 The main challenge in this project, aside the form factor, is that the ATTiny85 has only 2 native hardware PWM pins, but for a complete control of the color, you need 3.
 
 Other than that it is just a nice decorative project to "artistically" show the measured temperature.
@@ -18,6 +27,7 @@ Required hardware:
 - ATTiny85
 - LIR2032
 - DS18b20 Temperature sensor
+- 4.7K Ohm Resistor
 
 Layout of the wiring:
 

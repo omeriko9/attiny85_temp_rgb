@@ -2,11 +2,15 @@
 Goal is to lights up an RGB led according the the measured temperature using ATTiny85.
 The whole project should fit in a bottle cap, so it will light the water inside.
 
-Illustration:
+This is what it looks like with current prototype:
+
+![Bottle Cap Temperature RGB](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/1165fdb6-0bf3-4a1a-85f0-aaf182df7579)
+
+Illustration of the project's components:
 
 ![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/182cc313-af74-4705-86bd-bfab3d0ed3df)
 
-A very bad prototype:
+A very ugly prototype:
 
 ![IMG_7588](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/0baba867-896b-4b56-8bca-c7f0f44a1cbc)
 

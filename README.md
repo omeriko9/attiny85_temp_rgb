@@ -2,9 +2,22 @@
 Goal is to lights up an RGB led according the the measured temperature using ATTiny85.
 The whole project should fit in a bottle cap, so it will light the water inside.
 
-Illustration:
+This is what it looks like with current prototype:
+
+![Bottle Cap Temperature RGB](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/1165fdb6-0bf3-4a1a-85f0-aaf182df7579)
+
+Illustration of the project's components:
 
 ![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/182cc313-af74-4705-86bd-bfab3d0ed3df)
+
+A very ugly prototype:
+
+![IMG_7588](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/0baba867-896b-4b56-8bca-c7f0f44a1cbc)
+
+![IMG_7591](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/b708f1e0-60a1-461c-bf74-1f89598e79fa)
+
+![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/a0d8fbde-d156-431b-abeb-bb5dbc445f2b)
+
 
 The main challenge in this project, aside the form factor, is that the ATTiny85 has only 2 native hardware PWM pins, but for a complete control of the color, you need 3.
 
@@ -18,9 +31,11 @@ Required hardware:
 - ATTiny85
 - LIR2032
 - DS18b20 Temperature sensor
+- 4.7K Ohm Resistor
 
 Layout of the wiring:
 
-![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/e7ff6833-7c9f-4351-ba65-717b8cea91b3)
+![image](https://github.com/omeriko9/attiny85_temp_rgb/assets/5153984/d878c242-1caa-4bff-b612-7e1b3fcd3553)
+
 
 

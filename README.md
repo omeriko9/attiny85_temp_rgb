@@ -8,16 +8,16 @@ The colors transitions are smooth between each color.
 ## Color Table:
 
 | Temperature in °C | Color Name     | Color Hex |
---------------------------------------------------
-| <=17              | Deep Blue      | 0x0000FF  |
-| 18 - 20           | Light Blue     | 0x00FFFF  |
-| 21 - 22           | Cyan           | 0x00FFFF  |
-| 23 - 24           | Green          | 0x00FF00  |
-| 25                | Light Green    | 0x7FFF00  |
-| 26                | Green-Orange   | 0x7FFF7F  |
-| 27                | Orange         | 0xFF7F00  |
-| 28                | Yellow         | 0xFFFF00  |
-| 29                | Yellow-Red     | 0xFFFF7F  |
+|-------------------|----------------|-----------|
+| <=17 | Deep Blue      | 0x0000FF  |
+| 18 - 20 | Light Blue     | 0x00FFFF  |
+| 21 - 22 | Cyan           | 0x00FFFF  |
+| 23 - 24 | Green          | 0x00FF00  |
+| 25 | Light Green    | 0x7FFF00  |
+| 26 | Green-Orange   | 0x7FFF7F  |
+| 27 | Orange         | 0xFF7F00  |
+| 28 | Yellow         | 0xFFFF00  |
+| 29 | Yellow-Red     | 0xFFFF7F  |
 | 30-31             | Red            | 0xFF0000  |
 | 32                | Red-Purple     | 0xFF007F  |
 | >=33              | Purple         | 0x7F007F  |

@@ -89,6 +89,7 @@ void fade_to_color(uint32_t fromHexColor, uint32_t toHexColor, uint32_t howManyS
     // sprintf(buf, "iter:  %d %d %d", curR, curG, curB);
     // mySerial.println(buf);
     set_color(curR, curG, curB);
+
     delay(20);
   }
 }
